@@ -18,3 +18,5 @@ Scroll down and click the green **"Commit changes"** button (and confirm in the 
 Go back to the assignment and paste your repo URL:
 ```
 https://github.com/23f3000340/tds-week3-4
+
+![CI](https://github.com/23f3000340/tds-week3-4/actions/workflows/ci.yml/badge.svg)
